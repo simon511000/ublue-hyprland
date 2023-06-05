@@ -1,4 +1,4 @@
-# Starting point
+# ublue-hyprland
 
 [![build-ublue](https://github.com/simon511000/ublue-hyprland/actions/workflows/build.yml/badge.svg)](https://github.com/simon511000/ublue-hyprland/actions/workflows/build.yml)
 
